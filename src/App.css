@@ -5,8 +5,6 @@
   position: relative;
   text-align: center;
   display: flex;
-  /*border: 1px solid;
-  */
   overflow: hidden;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
